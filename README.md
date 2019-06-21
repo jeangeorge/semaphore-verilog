@@ -5,7 +5,7 @@
 # Trabalho Prático 4 - Verilog
 Trabalho Prático Final da disciplina **Introdução a Sistemas Lógicos(DCC114)** da **UFMG** em 2019/1
 ## Problema:
-Implementação de um sistema em Verilog que representa o comportamento de dois semáforos. Clique [aqui](https://github.com/jeanGeorge/tp4_isl/blob/master/tp4_files/TP4ISL.pdf) para acessar o pdf com a descrição completa do problema
+Implementação de um sistema escrito em Verilog que representa o comportamento de dois semáforos. Clique [aqui](https://github.com/jeanGeorge/tp4_isl/blob/master/tp4_files/TP4ISL.pdf) para acessar o pdf com a descrição completa do problema
 
 ---
 
