@@ -14,7 +14,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eget lorem qui
 
 ### Integrantes
 
-- Felipe Martins (@)
+- Filipe Martins (@)
 - Jean George (@jeanGeorge)
 - Vitor Mafra (@vitor-mafra)
 
