@@ -12,7 +12,7 @@ module testbench_exemplo2();
 	reg clk,bt,rst;//1 bit, sinais de entrada
 	wire [2:0] As;//estado do semaforo A
 	wire [2:0] Bs;//estado do semaforo B
-	
+
 	integer i;//para as iteracoes do for
 
 	semaforo s(.clk(clk), .rst(rst), .bt(bt), .A(As), .B(Bs));
@@ -34,7 +34,7 @@ module testbench_exemplo2();
 		end
 		#1 $finish;//finalizando a simulacao
 	end
-	
+
 	//bloco utilizado para controlar o sinal do botao.
 	//crie outras sequencias de forma a testar o seu codigo
 	initial begin
@@ -54,5 +54,5 @@ module testbench_exemplo2();
 		rst = 1'b1;
 		#1 rst = 1'b0;//reset apos o primeiro ciclo
 	end
-	
+
 endmodule
