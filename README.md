@@ -21,7 +21,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eget lorem qui
 > Professor: Luiz Filipe Menezes (@ ?)
 
 ### Documentação
-Clique [aqui](https://www.youtube.com/watch?v=v1PBptSDIh8) para acessar o pdf com a documentação do programa
+Clique [aqui]() para acessar o pdf com a documentação do programa
 
 ### Como usar
 COLOCAR AS INSTRUCOES DE EXECUCAO
